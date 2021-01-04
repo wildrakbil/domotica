@@ -1,0 +1,1 @@
+INSERT INTO sensor (name,description,value) VALUES ('HCSR04_1','sensor de prueba local',0);
